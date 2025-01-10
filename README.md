@@ -1,7 +1,7 @@
-# 🚗 ECE Rent A Car Yönetim Sistemi
+# 🚗 Rent A Car Yönetim Sistemi
 
 ## 📝 Proje Hakkında
-ECE Rent A Car, araç kiralama işlemlerini kolaylaştıran ve yöneten bir C++ konsol uygulamasıdır. Bu sistem, müşterilerin araç kiralamasını ve yetkililerin müşteri bilgilerini yönetmesini sağlar.
+Rent A Car, araç kiralama işlemlerini kolaylaştıran ve yöneten bir C++ konsol uygulamasıdır. Bu sistem, müşterilerin araç kiralamasını ve yetkililerin müşteri bilgilerini yönetmesini sağlar.
 
 ## ✨ Özellikler
 
