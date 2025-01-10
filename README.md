@@ -21,7 +21,7 @@ ECE Rent A Car, araç kiralama işlemlerini kolaylaştıran ve yöneten bir C++ 
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/[kullanıcı-adı]/Rent-A-Car-Little-Work.git
+git clone https://github.com/kerimayvaz77/Rent-A-Car-Little-Work.git
 ```
 
 2. Proje dizinine gidin:
@@ -65,4 +65,6 @@ Varsayılan yetkili şifresi: `112233`
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## 👥 İletişim
-Proje ile ilgili sorularınız için [issues](https://github.com/[kullanıcı-adı]/Rent-A-Car-Little-Work/issues) sayfasını kullanabilirsiniz. 
+Proje ile ilgili sorularınız için benimle doğrudan iletişime geçebilirsiniz:
+
+📧 E-posta: kerimayvaz7@gmail.com 
